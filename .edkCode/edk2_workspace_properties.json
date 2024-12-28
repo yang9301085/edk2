@@ -1,0 +1,9 @@
+{
+    "packagePaths": [],
+    "dscPaths": [
+        "OvmfPkg/OvmfPkgX64.dsc"
+    ],
+    "buildDefines": [
+        "ARCH=X64"
+    ]
+}
